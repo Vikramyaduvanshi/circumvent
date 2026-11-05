@@ -244,3 +244,7 @@ em{font-family:var(--ff-head);font-style:italic;background:linear-gradient(90deg
   *,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}
   .reveal{opacity:1;transform:none}
 }
+
+/* accessibility */
+.skip-link{position:absolute;left:-999px;top:8px;z-index:300;padding:10px 18px;border-radius:8px;background:var(--gold);color:#1a1204;font-weight:600}
+.skip-link:focus{left:12px}

@@ -1,0 +1,77 @@
+# Circumvent AI
+
+> Circumvent AI is a technology and creative studio in India. We build AI agents, Android apps, web portals and machine learning solutions, and we create social media marketing content and digital wedding invitations. Tagline: Automate • Innovate • Grow.
+
+Website: https://circumvent-ai.vercel.app/
+
+## Technology & AI Solutions
+
+- [Advanced AI Agents](https://circumvent-ai.vercel.app/#svc-advanced-ai-agents): Smart digital staff that works on your business data and handles repeated work for you. No technical knowledge needed. Includes: Assignment Checking Agent, Database Analysis Agent, Daily Sales Report Agent, Business Insight Agent, Repetitive Work Agent, Admin Panel Agent.
+- [Android App Development](https://circumvent-ai.vercel.app/#svc-android-app-development): Custom mobile apps built for your business idea, from design to launch. Includes: Clean UI/UX, Backend & database, Play Store ready.
+- [Web Portal Development](https://circumvent-ai.vercel.app/#svc-web-portal-development): Secure, scalable web portals and dashboards for your team or customers. Includes: Login & role access, Admin dashboard, Mobile responsive.
+- [Machine Learning in Physical Products](https://circumvent-ai.vercel.app/#svc-machine-learning-in-physical-products): ML models embedded directly into hardware and smart devices. Includes: On-device intelligence, Edge & IoT ready, Prototype to product.
+- [Model Fine-Tuning with Sensors](https://circumvent-ai.vercel.app/#svc-model-fine-tuning-with-sensors): Train and fine-tune AI models using real-world sensor data for your physical product. Includes: Sensor data collection, Custom model training, Accuracy improvement.
+- [Physical Product Control via Mobile App](https://circumvent-ai.vercel.app/#svc-physical-product-control-via-mobile-app): Control and monitor your device, machine or product from your phone, from anywhere. Includes: On/off, settings & schedules, Live status & alerts, Secure access for users.
+- [Office Local Server Setup](https://circumvent-ai.vercel.app/#svc-office-local-server-setup): A private, secure in-office server to keep your data and tools under your control. Includes: File & data storage, Internal apps hosting, Backup & access control.
+- [ML Models for Business Data Analysis](https://circumvent-ai.vercel.app/#svc-ml-models-for-business-data-analysis): Turn your business data into insights, forecasts and smarter decisions. Includes: Sales & demand forecasting, Pattern & trend detection, Easy-to-read reports.
+
+## Business Creative & Marketing Services
+
+- [Business Promotional Posts](https://circumvent-ai.vercel.app/#svc-business-promotional-posts): Eye-catching social media designs that make your brand stand out. Includes: Festival & offer posts, Brand colours & fonts, Monthly content packs.
+- [Business Promotional Reels](https://circumvent-ai.vercel.app/#svc-business-promotional-reels): Engaging reels that grow your reach, followers and customer interest. Includes: Hook-driven editing, Captions & music, Platform-ready export.
+- [Product Promotional Reels](https://circumvent-ai.vercel.app/#svc-product-promotional-reels): Showcase your products in a way that boosts attention and sales. Includes: Feature highlights, Price & offer display, Call-to-action ending.
+- [Service Promotional Reels](https://circumvent-ai.vercel.app/#svc-service-promotional-reels): Explain what you do clearly and attract the right customers. Includes: Simple storytelling, Trust-building visuals, Lead-focused message.
+- [Brand Promotion](https://circumvent-ai.vercel.app/#svc-brand-promotion): Build a strong, memorable brand identity across all platforms. Includes: Consistent look & feel, Profile & cover design, Content direction.
+- [Social Media Ads Management](https://circumvent-ai.vercel.app/#svc-social-media-ads-management): Complete ad campaign setup, targeting and promotion to reach the right audience. Includes: Campaign setup, Audience targeting, Performance tracking.
+
+## Wedding Creative Services
+
+- [Wedding Video Cards](https://circumvent-ai.vercel.app/#svc-wedding-video-cards): Cinematic animated video invitations that your guests will love to watch and share. Includes: Custom story & music, Names, date & venue animation, Ready for WhatsApp.
+- [Digital Wedding Invitations](https://circumvent-ai.vercel.app/#svc-digital-wedding-invitations): Elegant, shareable invites designed for WhatsApp and social media. Includes: Traditional & modern themes, Multi-language text, Fast delivery.
+- [Wedding Invitation Reels](https://circumvent-ai.vercel.app/#svc-wedding-invitation-reels): Trendy short reels to announce your wedding in style on Instagram and Facebook. Includes: Vertical 9:16 format, Trending transitions, Photo & video mix.
+- [Save the Date Videos](https://circumvent-ai.vercel.app/#svc-save-the-date-videos): Beautiful teaser videos that tell everyone to reserve your special date. Includes: Short & emotional, Pre-wedding photo support, Perfect for early announcement.
+
+## Frequently asked questions
+
+**What is Circumvent AI?**
+Circumvent AI is a technology and creative studio in India. We build AI agents, Android apps, web portals and machine learning solutions, and we create social media marketing content and digital wedding invitations.
+
+**What is an AI agent and what can it do for my business?**
+An AI agent is a smart digital assistant that works on your own business data. It can prepare daily sales reports, analyse sales, profit and customer trends, handle repetitive work like invoice checks, stock alerts and data entry, and connect with your existing admin panel.
+
+**Can an AI agent check student assignments automatically?**
+Yes. We have built an Assignment Checking Agent that helps teachers check student work faster, so less time goes into manual checking.
+
+**Can AI analyse data directly from my database?**
+Yes. We have built a Database Analysis Agent that reads your backend data directly and turns it into simple reports and insights, without manual Excel work.
+
+**Can I control a physical product or machine from a mobile app?**
+Yes. We build custom mobile apps that control and monitor your device, machine or product from your phone, with on/off control, settings, schedules, live status and alerts.
+
+**What is machine learning in a physical product?**
+It means an ML model runs inside your device or product and learns from sensor data. We can also fine-tune the model with real sensor data so it works accurately in your product.
+
+**What is an office local server and why would I need one?**
+An office local server is a private server set up inside your office. It keeps your files, internal apps and business data under your own control, and your team can use it on your own network.
+
+**Do you build Android apps and web portals?**
+Yes. We build custom Android apps and secure, scalable web portals and dashboards for businesses, from design and backend to launch.
+
+**Which business marketing services do you offer?**
+We create business promotional posts and reels, product and service promotional reels, brand promotion content, and manage social media ads including campaign setup, targeting and promotion.
+
+**Which wedding services do you offer?**
+We create wedding video cards, digital wedding invitations, wedding invitation reels and save the date videos. They are delivered digitally and are ready to share on WhatsApp and social media.
+
+**How much does a project cost?**
+The cost depends on what you need, such as the type of service, features and timeline. Send us your idea through the contact form and we will share a clear quote.
+
+**Can I order only one service?**
+Yes. You can choose a single service or combine several, for example a wedding video card with an invitation reel, or an AI agent with a web portal.
+
+**How do I start a project?**
+Fill the contact form on this page with your idea. We will discuss the details and share a plan, and then start the work.
+
+## Contact
+
+Use the contact form at https://circumvent-ai.vercel.app/#contact to describe your project.
