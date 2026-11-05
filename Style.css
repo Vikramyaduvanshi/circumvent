@@ -196,24 +196,6 @@ em{font-family:var(--ff-head);font-style:italic;background:linear-gradient(90deg
 .reveal{opacity:0;transform:translateY(34px);transition:opacity .8s ease,transform .8s ease}
 .reveal.visible{opacity:1;transform:none}
 
-/* ============ WIDE AI AGENTS CARD ============ */
-.card.wide{grid-column:1 / -1;padding:36px 34px}
-.wide-head{display:flex;gap:20px;align-items:flex-start;margin-bottom:26px}
-.wide-head .icon{margin-bottom:0;flex-shrink:0}
-.wide-head h3{font-size:1.6rem}
-.wide-head p{max-width:760px;margin-bottom:0;font-size:1rem}
-.uses{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
-.use{position:relative;padding:20px 20px 18px;border-radius:16px;background:rgba(255,255,255,.04);border:1px solid var(--border);transition:border-color .3s,transform .3s}
-.use:hover{border-color:rgba(123,77,255,.6);transform:translateY(-4px)}
-.use-icon{display:inline-grid;place-items:center;width:42px;height:42px;font-size:1.2rem;border-radius:12px;margin-bottom:10px;background:rgba(123,77,255,.16);border:1px solid rgba(123,77,255,.35)}
-.use h4{font-family:var(--ff-head);font-size:1.05rem;line-height:1.35;margin-bottom:6px}
-.use p{font-size:.88rem;color:var(--muted);margin-bottom:0}
-.badge{display:inline-block;margin-left:6px;padding:2px 10px;font-family:var(--ff-body);font-style:normal;font-size:.68rem;font-weight:600;letter-spacing:.3px;vertical-align:middle;border-radius:30px;color:#0b2418;background:#5ee0a0;-webkit-text-fill-color:#0b2418}
-.wide-foot{display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;margin-top:24px;padding-top:20px;border-top:1px solid var(--border)}
-.wide-foot p{margin:0;color:#d7d2e2;font-size:.95rem}
-.card-link{display:inline-block;font-size:.92rem;font-weight:600;color:var(--gold);transition:transform .25s}
-.card-link:hover{transform:translateX(4px)}
-
 /* ============ MEDIA QUERIES ============ */
 @media (max-width:1024px){
   .grid{grid-template-columns:repeat(2,1fr)}
@@ -261,16 +243,4 @@ em{font-family:var(--ff-head);font-style:italic;background:linear-gradient(90deg
 @media (prefers-reduced-motion:reduce){
   *,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}
   .reveal{opacity:1;transform:none}
-}
-
-/* wide AI agents card: responsive */
-@media (max-width:1024px){
-  .uses{grid-template-columns:repeat(2,1fr)}
-}
-@media (max-width:600px){
-  .card.wide{padding:26px 20px}
-  .wide-head{flex-direction:column;gap:14px}
-  .wide-head h3{font-size:1.4rem}
-  .uses{grid-template-columns:1fr}
-  .wide-foot{flex-direction:column;align-items:flex-start}
 }
