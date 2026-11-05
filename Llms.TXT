@@ -6,7 +6,8 @@ Website: https://circumvent-ai.vercel.app/
 
 ## Technology & AI Solutions
 
-- [Advanced AI Agents](https://circumvent-ai.vercel.app/#svc-advanced-ai-agents): Smart digital staff that works on your business data and handles repeated work for you. No technical knowledge needed. Includes: Assignment Checking Agent, Database Analysis Agent, Daily Sales Report Agent, Business Insight Agent, Repetitive Work Agent, Admin Panel Agent.
+- [Advanced AI Agents](https://circumvent-ai.vercel.app/#svc-advanced-ai-agents): Smart digital staff that works on your business data, chats with your customers in their own language, and connects with your CRM. No technical knowledge needed. Includes: Assignment Checking Agent, Database Analysis Agent, Daily Sales Report Agent, Business Insight Agent, Repetitive Work Agent, Admin Panel Agent, Multi-Language Support (Hindi, English & more), CRM Integration, WhatsApp & Chatbot Agent, Lead Follow-up Agent, Customer Support Agent.
+- [Voice AI Agents](https://circumvent-ai.vercel.app/#svc-voice-ai-agents): AI that talks to your customers on phone calls, in their own language, 24 hours a day. Includes: Answers & makes phone calls, Hindi, English & more languages, Takes enquiries & bookings, Saves details to your CRM.
 - [Android App Development](https://circumvent-ai.vercel.app/#svc-android-app-development): Custom mobile apps built for your business idea, from design to launch. Includes: Clean UI/UX, Backend & database, Play Store ready.
 - [Web Portal Development](https://circumvent-ai.vercel.app/#svc-web-portal-development): Secure, scalable web portals and dashboards for your team or customers. Includes: Login & role access, Admin dashboard, Mobile responsive.
 - [Machine Learning in Physical Products](https://circumvent-ai.vercel.app/#svc-machine-learning-in-physical-products): ML models embedded directly into hardware and smart devices. Includes: On-device intelligence, Edge & IoT ready, Prototype to product.
@@ -44,6 +45,15 @@ Yes. We have built an Assignment Checking Agent that helps teachers check studen
 
 **Can AI analyse data directly from my database?**
 Yes. We have built a Database Analysis Agent that reads your backend data directly and turns it into simple reports and insights, without manual Excel work.
+
+**Can you build a voice AI agent?**
+Yes. A voice AI agent can talk to your customers on calls, answer common questions, take enquiries and bookings, and pass the details to your team or CRM.
+
+**Does the AI agent support Hindi and other languages?**
+Yes. Our agents can work in multiple languages, such as Hindi, English and other regional languages, so your customers can talk in the language they are comfortable with.
+
+**Can the AI agent connect with my CRM?**
+Yes. We integrate AI agents with your CRM so new leads, customer details and conversations are saved automatically, and follow-ups happen on time.
 
 **Can I control a physical product or machine from a mobile app?**
 Yes. We build custom mobile apps that control and monitor your device, machine or product from your phone, with on/off control, settings, schedules, live status and alerts.

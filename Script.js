@@ -2,7 +2,7 @@
   'use strict';
 
   /* ---------- CONFIG: apni WhatsApp number yahan daalein (country code ke saath, bina + ke) ---------- */
-  var WHATSAPP_NUMBER = '91XXXXXXXXXX'; // sirf floating WhatsApp button ke liye
+  var WHATSAPP_NUMBER = '8178738926'; // sirf floating WhatsApp button ke liye
 
   /* ---------- Contact form ki email API ---------- */
   var EMAIL_API_URL = 'https://portfolio-email-sender-xf1x.onrender.com/sendemail';
