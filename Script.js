@@ -5,7 +5,7 @@
   var WHATSAPP_NUMBER = '8178738926'; // sirf floating WhatsApp button ke liye
 
   /* ---------- Contact form ki email API ---------- */
-  var EMAIL_API_URL = 'https://portfolio-email-sender-xf1x.onrender.com/sendemail';
+  var EMAIL_API_URL = 'https://circumvent-email.vercel.app/sendemail';
 
   var header = document.getElementById('header');
   var burger = document.getElementById('burger');
